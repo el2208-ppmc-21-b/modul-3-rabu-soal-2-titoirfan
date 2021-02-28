@@ -1,0 +1,104 @@
+{
+  "tests": [
+    {
+      "name": "01",
+      "setup": "make soal-02",
+      "run": "./soal-02",
+      "input": "Rakha_Subki\r\nClara_Permatasari",
+      "output": "27",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "02",
+      "setup": "",
+      "run": "./soal-02",
+      "input": "Andi\r\nPutri",
+      "output": "tidak cocok",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "03",
+      "setup": "",
+      "run": "./soal-02",
+      "input": "Anto\r\nFira",
+      "output": "tidak cocok",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "04",
+      "setup": "",
+      "run": "./soal-02",
+      "input": "Hanif\r\nClarissa",
+      "output": "40",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "05",
+      "setup": "",
+      "run": "./soal-02",
+      "input": "adit\r\najeng",
+      "output": "25",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "06",
+      "setup": "",
+      "run": "./soal-02",
+      "input": "bill_wurtz\r\ntsamara",
+      "output": "14",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "07",
+      "setup": "",
+      "run": "./soal-02",
+      "input": "fauzan\r\ndhea",
+      "output": "25",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "08",
+      "setup": "",
+      "run": "./soal-02",
+      "input": "cratos\r\nemily",
+      "output": "tidak cocok",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "09",
+      "setup": "",
+      "run": "./soal-02",
+      "input": "ichsan\r\nlily",
+      "output": "tidak cocok",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "10",
+      "setup": "",
+      "run": "./soal-02",
+      "input": "yusril\r\nalmira",
+      "output": "tidak cocok",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    }
+  ]
+}
